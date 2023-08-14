@@ -9,7 +9,7 @@
         "style":"common",
         "style_id":"0128578d0246fe24",
         "title":"默认",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -22,7 +22,7 @@
         "style_id":"14a2b5c3caf2aed1",
         "title":"清新二次元",
         "hr_upscaler":"R-ESRGAN 4x+ Anime6B",
-        "vae":"vae-ft-mse-840000-ema-pruned.safetensors",
+        "vae":"vae-ft-mse-840000-ema-pruned.safetensors"
     },
     {
         "cfg_scale":"7",
@@ -34,7 +34,7 @@
         "style":"doll",
         "style_id":"65bef5846a7b70e0",
         "title":"人物写真",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -46,7 +46,7 @@
         "style":"pipe2",
         "style_id":"f0a887fec6844624",
         "title":"魔法2.5D",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -59,7 +59,7 @@
         "style_id":"32882438393852ac",
         "teaching_video":"http://res.jianse.tv/tuquAI/teach.jpg",
         "title":"绝色佳人",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -71,7 +71,7 @@
         "style":"pipe1",
         "style_id":"249f739cd9e412f0",
         "title":"唯美二次元",
-        "hr_upscaler":"R-ESRGAN 4x+ Anime6B",
+        "hr_upscaler":"R-ESRGAN 4x+ Anime6B"
     },
     {
         "cfg_scale":"7",
@@ -84,7 +84,7 @@
         "style_id":"203244290ccc6279",
         "title":"二次元2.5D",
         "hr_upscaler":"R-ESRGAN 4x+ Anime6B",
-        "vae":"vae-ft-mse-840000-ema-pruned.safetensors",
+        "vae":"vae-ft-mse-840000-ema-pruned.safetensors"
     },
     {
         "cfg_scale":"7",
@@ -96,7 +96,7 @@
         "style":"pipe4",
         "style_id":"e474adba049a48da",
         "title":"真人2.5D",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -108,7 +108,7 @@
         "style":"guofeng",
         "style_id":"0de11f32dac08f2b",
         "title":"国风",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -120,7 +120,7 @@
         "style":"pipe3",
         "style_id":"02dfb71cb00ace31",
         "title":"幻彩2.5D",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -132,7 +132,7 @@
         "style":"guofeng",
         "style_id":"40c24520d5bdcd38",
         "title":"汉服",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -144,7 +144,7 @@
         "style":"common",
         "style_id":"660cc8479cb0ca5f",
         "title":"赛博朋克",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -156,7 +156,7 @@
         "style":"common",
         "style_id":"4aa69f803ac63163",
         "title":"水彩画",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -168,7 +168,7 @@
         "style":"common",
         "style_id":"7cf0dedb34de367e",
         "title":"概念艺术",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -180,7 +180,7 @@
         "style":"common",
         "style_id":"2e634182d80819a6",
         "title":"写实绘画",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -192,7 +192,7 @@
         "style":"pipe3",
         "style_id":"62a94191cd78cf94",
         "title":"低聚艺术",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -204,7 +204,7 @@
         "style":"anime_anything",
         "style_id":"912bb9a813e4c9ca",
         "title":"新海诚",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -216,7 +216,7 @@
         "style":"pipe3",
         "style_id":"6a0fad2f19ced8c4",
         "title":"盲盒手办",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -228,7 +228,7 @@
         "style":"pipe3",
         "style_id":"6da2dd27c43dcc6e",
         "title":"像素艺术",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     },
     {
         "cfg_scale":"7",
@@ -241,6 +241,6 @@
         "style_id":"09a4185a8e27db3e",
         "title":"迪士尼",
         "vae":"vae-ft-mse-840000-ema-pruned.safetensors",
-        "hr_upscaler":"R-ESRGAN 4x+",
+        "hr_upscaler":"R-ESRGAN 4x+"
     }
 ]
