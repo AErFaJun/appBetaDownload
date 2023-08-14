@@ -1,6 +1,6 @@
 {
-    "name": "ai_paint_flutter_web",
-    "short_name": "ai_paint_flutter_web",
+    "name": "exercise",
+    "short_name": "exercise",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
