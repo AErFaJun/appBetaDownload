@@ -1,6 +1,6 @@
 {
-    "name": "sdwebui_flutter",
-    "short_name": "sdwebui_flutter",
+    "name": "sdwebui",
+    "short_name": "sdwebui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
